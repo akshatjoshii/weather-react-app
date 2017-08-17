@@ -38,7 +38,7 @@ class SearchBar extends Component{
                 <input className="form-control"
                        placeholder="Get 5 days weather forecast of your favourite city"
                        value={this.state.term}/>
-                <span className="input-button-btn">
+                <span className="input-group-btn">
                     <button className="btn btn-secondary">
                         Submit
                     </button>

@@ -1,11 +1,11 @@
 /**
  * Created by Akshat on 17-08-2017.
  */
-import React from 'react';
+import React, {Component} from 'react';
 import { Sparklines, SparklinesLine, SparklinesReferenceLine } from 'react-sparklines';
 
 
-export default class Chart {
+export default class Chart extends Component{
     constructor(props){
         super(props);
     }
