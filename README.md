@@ -1,6 +1,6 @@
-# ReduxSimpleStarter
+# Weather React App
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Interested in learning [Redux](https://www.akshatjoshi.co.in/), or need [Support](https://www.akshatjoshi.co.in/) ?
 
 ### Getting Started
 
