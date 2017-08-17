@@ -1,6 +1,6 @@
 # Weather React App
 
-Interested in learning [Redux](https://www.akshatjoshi.co.in/), or need [Support](https://www.akshatjoshi.co.in/) ?
+Interested in learning [Redux](http://www.akshatjoshi.co.in/), or need [Support](http://www.akshatjoshi.co.in/) ?
 
 ### Getting Started
 
